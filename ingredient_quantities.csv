@@ -1,0 +1,11 @@
+id,pack_size_text,pack_size,item_volume,item_density,item_weight,total_weight
+1,,20,,,3,60
+2,5 bottles of 1 kg,5,,,1,5
+3,,1,2,0.9,1.8,1.8
+4,6 boxes of 3 kg,,,,,
+5,,5,3.4,2,,
+6,8 packs of 4 kg,,,,,32
+7,6 boxes of 4 kg,,,,,
+8,4 boxes of 3 kg,4,,,3,
+9,,3,,,1,
+10,,2,3,4,,
